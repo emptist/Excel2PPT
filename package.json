@@ -1,0 +1,22 @@
+{
+  "name": "excel2ppt",
+  "version": "1.0.0",
+  "description": "Excel data driven PPT generator\r # Excel 数据处理及制作PPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emptist/Excel2PPT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emptist/Excel2PPT/issues"
+  },
+  "homepage": "https://github.com/emptist/Excel2PPT#readme",
+  "dependencies": {
+    "json-as-xlsx": "^2.0.0"
+  }
+}
